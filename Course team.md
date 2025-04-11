@@ -21,3 +21,5 @@
 - Stéphane RIGAUD - Image Analysis Hub, C2RI, Institut Pasteur
 - [Jean-Yves TINEVEZ](https://research.pasteur.fr/en/member/jean-yves-tinevez/) - Image Analysis Hub, C2RI, Institut Pasteur
 - Laura XÉNARD - Image Analysis Hub, C2RI, Institut Pasteur
+- Jacques BOURG - Photonic Bioimaging, C2RT, Institut Pasteur
+- Alice BLONDEL - Mines Paris
