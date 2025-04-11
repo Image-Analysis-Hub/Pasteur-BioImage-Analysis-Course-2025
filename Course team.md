@@ -1,0 +1,23 @@
+# Course team
+
+- Marvin ALBERT - Image Analysis Hub, C2RI, Institut Pasteur
+- Mélodie AMBROSET -
+- Mounib BENIMAM - Biological Image Analysis research unit, Institut Pasteur
+- Stephan FISCHER - Bioinformatics and Biostatistics Hub, C2RI, Institut Pasteur
+- Caterina FUSTER-BARCELÓ - Universidad Carlos III de Madrid
+- Carlos GARCIA-LÒPEZ-DE-HARO - Universidad Carlos III de Madrid
+- Auguste GENOVESIO - Computational Bioimaging and Bioinformatics reserach unit, École Normale Supérieure
+- Florian JUG - Human Technolopole Milan
+- Daniel KRENTZEL - Imaging and Modeling research unit, Institut Pasteur
+- Gaëlle LETORT - Developmental and Stem Cell Biology, Institut Pasteur
+- Vannary MEAS-YEDID - Biological Image Analysis research unit, Institut Pasteur
+- Héloïse MONNET - Collège de France
+- Florian MÜLLER - Photonic Bioimaging, C2RT, Institut Pasteur
+- Arrate MUÑOZ-BARRUTIA - Universidad Carlos III de Madrid
+- Jean-Christophe OLIVO-MARIN - Biological Image Analysis research unit, Institut Pasteur
+- Thierry PÉCOT -
+- Minh-Son PHAN - Image Analysis Hub, C2RI, Institut Pasteur
+- Joanna PYLVÄNÄINEN - Åbo Akademi University
+- Stéphane RIGAUD - Image Analysis Hub, C2RI, Institut Pasteur
+- [Jean-Yves TINEVEZ](https://research.pasteur.fr/en/member/jean-yves-tinevez/) - Image Analysis Hub, C2RI, Institut Pasteur
+- Laura XÉNARD - Image Analysis Hub, C2RI, Institut Pasteur
