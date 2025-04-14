@@ -1,4 +1,4 @@
-# Pasteur-BioImage-Analysis-Course-2025
+# Pasteur BioImage Analysis Course 2025
 
 Teaching materials and outline for the Pasteur Bioimage Analysis course, 12-16 May 2025, Institut Pasteur Paris.
 
