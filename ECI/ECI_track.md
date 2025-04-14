@@ -1,7 +1,5 @@
 # ECI track
 
-This page collects instructions, links and materials intended to students following the ECI track of the course. 
-
 ## Monday - 12th of May
 
 ### 9:30 - 10:30 - General introduction

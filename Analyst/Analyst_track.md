@@ -1,7 +1,5 @@
 # Analyst track
 
-This page collects instructions, links and materials intended to students following the Analyst track of the course. 
-
 ## Monday - 12th of May
 
 ### 9:30 - 12:30 - General introduction
