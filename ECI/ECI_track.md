@@ -104,7 +104,7 @@ Installing the required software.
 
 ### 11:00 - 12: 30 - Zero-Cost Deep-Learning 4 Microscopy I
 
-> Teacher: Joanna PILVÄNÄINEN  
+> Teacher: Joanna PYLVÄNÄINEN  
 > Helpers: Laura XÉNARD & Jean-Yves TINEVEZ
 
 ### 12:30 - 14:00 - Lunch break
@@ -112,7 +112,7 @@ Installing the required software.
 
 ### 14:00 - 16:00 - Zero-Cost Deep-Learning 4 Microscopy II
 
-> Teacher: Joanna PILVÄNÄINEN  
+> Teacher: Joanna PYLVÄNÄINEN  
 > Helpers: Laura XÉNARD & Jean-Yves TINEVEZ
 
 ### 16:00 - 16:30 - Coffee break
@@ -124,7 +124,7 @@ Installing the required software.
 ### 17:00 - 18:00 - Tracking with TrackMate I
 
 > Teacher: Jean-Yves TINEVEZ  
-> Helpers: Laura XÉNARD & Joanna PILVÄNÄINEN
+> Helpers: Laura XÉNARD & Joanna PYLVÄNÄINEN
 
 ---
 
@@ -139,14 +139,14 @@ Installing the required software.
 ### 11:00 - 12: 30 - Tracking with TrackMate II
 
 > Teacher: Jean-Yves TINEVEZ  
-> Helpers: Laura XÉNARD & Joanna PILVÄNÄINEN
+> Helpers: Laura XÉNARD & Joanna PYLVÄNÄINEN
 
 ### 12:30 - 14:00 - Lunch break
 
 ### 14:00 - 16:00 - Analysing Cell Tracking in python
 
 > Teacher: Laura XÉNARD  
-> Helpers: Jean-Yves TINEVEZ & Joanna PILVÄNÄINEN
+> Helpers: Jean-Yves TINEVEZ & Joanna PYLVÄNÄINEN
 
 ### 16:00 - 16:30 - Coffee break
 
