@@ -1,6 +1,8 @@
 This page collects instructions, links and materials for the Day 4
 
-# Day 4: Key Topics
+# Topic 1: Deep learning using BiaPy
+
+Contents:
 
 - What is Deep Learning?
 - What is BiaPy?
@@ -59,7 +61,7 @@ By the end of this segment, you’ll be equipped with the knowledge and tools to
 > **Link to Quality conrol notebook**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025/blob/BiaPy_joanna/ECI/Day_4_materials/Quality_control_notebook.ipynb)
 
-
+# Topic 2: Tracking with TrackMate
 
 
 
