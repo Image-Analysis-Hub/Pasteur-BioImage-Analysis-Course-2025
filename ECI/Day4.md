@@ -20,16 +20,16 @@ Joanna Pylvänäinen, Åbo Akademi University. Turku, Finland, joanna.pylvanaine
 
 In this lecture, we will explore BiaPy, a powerful and accessible toolbox designed to help researchers and students train deep learning models for microscopy image analysis. We will start with an introduction to deep learning and its applications in microscopy, followed by a detailed discussion of how BiaPy simplifies the process of building and applying neural networks, even for those with limited computational resources.
 
-> Lecture [here]()
+> **[Lecture here (to be updated)]()** <br />
 
 ## Session 2: Hands-on: Preparing, Training, and Evaluating a Deep Learning Model for Instance Segmentation in Microscopy
 
 In this comprehensive hands-on session, you will gain practical experience with the full workflow of training a deep learning model for instance segmentation tasks in microscopy, using the BiaPy platform. This session integrates two crucial stages of deep learning workflows: 1) data preparation and training and 2) model evaluation and deployment.
 
-> **[Lecture here]()** <br />
+> **[Lecture here (to be updated)]()** <br />
 > **[BiaPy plarform](https://biapyx.github.io/)** <br />
-> **[Download image for annotation]()** <br />
-> **[Download T cell dataset]()** <br />
+> **[Download demo data (to be updated)]()** <br />
+
 
 **Part1: Preparing Data and Training an Instance Segmentation Model**
 
@@ -59,7 +59,7 @@ By the end of this segment, you’ll be equipped with the knowledge and tools to
 
 
 > **Link to Quality conrol notebook**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025/blob/BiaPy_joanna/ECI/Day_4_materials/Quality_control_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025/blob/main/ECI/Day_4_materials/Quality_control_notebook.ipynb)
 
 # Topic 2: Tracking with TrackMate
 
