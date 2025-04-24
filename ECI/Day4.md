@@ -28,7 +28,7 @@ In this comprehensive hands-on session, you will gain practical experience with 
 
 > **[Lecture here (to be updated)]()** <br />
 > **[BiaPy plarform](https://biapyx.github.io/)** <br />
-> **[Download demo data (to be updated)]()** <br />
+> **[Download demo data](https://drive.google.com/drive/folders/1pb7d8rvySsq1kjn0gFqC6k04OZgwB8Qg?usp=sharing)** <br />
 
 
 **Part1: Preparing Data and Training an Instance Segmentation Model**
