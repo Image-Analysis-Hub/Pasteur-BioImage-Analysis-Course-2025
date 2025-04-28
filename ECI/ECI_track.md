@@ -49,19 +49,19 @@ Installing the required software.
 ### 14:00 - 15:00 - Bioimage analysis with Icy II
 
 > Teacher: Carlos GARCIA-LÒPEZ-DE-HARO  
-> Helpers: Caterina FUSTER-BARCELÓ & Thomas MUSSET
+> Helpers: Thomas MUSSET
 
 ### 15:00 - 16:00 - Ilastik for Machine Learning in image analysis I
 
 > Teacher: Minh-Son PHAN  
-> Helpers:
+> Helpers: Stéphane RIGAUD
 
 ### 16:00 - 16:30 - Coffee break
 
 ### 16:30 - 18:00 - Ilastik for Machine Learning in image analysis II
 
 > Teacher: Minh-Son PHAN  
-> Helpers:
+> Helpers: Stéphane RIGAUD
 
 ---
 
@@ -102,7 +102,7 @@ Installing the required software.
 
 ### 10:30 - 11: 00 - Coffee break
 
-### 11:00 - 12: 30 - Zero-Cost Deep-Learning 4 Microscopy I
+### 11:00 - 12: 30 - Deep learning using BiaPy I
 
 > Teacher: Joanna PYLVÄNÄINEN  
 > Helpers: Laura XÉNARD & Jean-Yves TINEVEZ
@@ -110,7 +110,7 @@ Installing the required software.
 ### 12:30 - 14:00 - Lunch break
 
 
-### 14:00 - 16:00 - Zero-Cost Deep-Learning 4 Microscopy II
+### 14:00 - 16:00 - Deep learning using BiaPy II
 
 > Teacher: Joanna PYLVÄNÄINEN  
 > Helpers: Laura XÉNARD & Jean-Yves TINEVEZ
