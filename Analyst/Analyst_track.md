@@ -12,14 +12,14 @@ Installing the required software.
 ### 14:00 - 16:00 - Developing Napari plugin I
 
 > Teacher: Daniel KRENTZEL    
-> Helpers: tbc
+> Helpers: Marvin ALBERT
 
 ### 16:00 - 16:30 - Coffee break
 
 ### 16:30 - 18:00 - Getting started in image analysis with Fiji II
 
 > Teacher: Daniel KRENTZEL    
-> Helpers: tbc
+> Helpers: Marvin ALBERT
 
 
 ---
@@ -101,14 +101,14 @@ Installing the required software.
 ### 14:00 - 16:00 - Cell Segmentation on large images I
 
 > Teacher: Gaëlle LETORT  
-> Helpers: Stéphane RIGAUD
+> Helpers: Alice BLONDEL
 
 ### 16:00 - 16:30 - Coffee break
 
 ### 16:30 - 17:30 - Cell Segmentation on large images II
 
-> Teacher: Gaëlle LETORT  
-> Helpers: Stéphane RIGAUD
+> Teacher: Alice BLONDEL
+> Helpers: Gaëlle LETORT
 
 ### 17:30 - 18:00 - Lecture: _Next steps in Spatial-omics_
 
@@ -127,14 +127,14 @@ Installing the required software.
 ### 11:00 - 12: 30 - Accelerating Image Processing with GPU-ready Libraries I
 
 > Teacher: Stéphane RIGAUD  
-> Helpers: tbc  
+> Helpers: Minh-Son PHAN
 
 ### 12:30 - 14:00 - Lunch break
 
 ### 14:00 - 16:00 - Accelerating Image Processing with GPU-ready Libraries II
 
 > Teacher: Stéphane RIGAUD  
-> Helpers: tbc  
+> Helpers: Minh-Son PHAN
 
 ### 16:00 - 16:30 - Coffee break
 
