@@ -42,13 +42,13 @@ Installing the required software.
 ### 11:30 - 12: 30 - Bioimage analysis with Icy I
 
 > Teacher: Carlos GARCIA-LÒPEZ-DE-HARO  
-> Helpers: Caterina FUSTER-BARCELÓ & Thomas MUSSET
+> Helpers: Caterina FUSTER-BARCELÓ & Thomas MUSSET & Jean-Yves TINEVEZ
 
 ### 12:30 - 14:00 - Lunch break
 
 ### 14:00 - 15:00 - Bioimage analysis with Icy II
 
-> Teacher: Carlos GARCIA-LÒPEZ-DE-HARO  
+> Teacher: Jean-Yves TINEVEZ
 > Helpers: Thomas MUSSET
 
 ### 15:00 - 16:00 - Ilastik for Machine Learning in image analysis I
