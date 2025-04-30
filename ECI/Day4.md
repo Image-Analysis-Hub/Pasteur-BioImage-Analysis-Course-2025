@@ -69,6 +69,10 @@ This course is aimed at beginners in bioimage analysis, that wants to learn how 
 
 The course starts a brief theoretical introduction about tracking algorithms, and is followed by a hands-on tutorial. For the tutorial we will use TrackMate (https://imagej.net/plugins/trackmate/), which is a somewhat popular Fiji plugin for tracking, developed in the Image Analysis Hub.
 
+## Preparing for the practicals
+
+If it is not done already, download and install a fresh Fiji: https://fiji.sc/ 
+
 For the practicals of today, we will learn how to use TrackMate with demo images. 
 Please download them from here in advance:
 
