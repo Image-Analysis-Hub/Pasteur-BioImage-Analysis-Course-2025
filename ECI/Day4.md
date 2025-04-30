@@ -61,8 +61,23 @@ By the end of this segment, you’ll be equipped with the knowledge and tools to
 > **Link to Quality conrol notebook**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025/blob/main/ECI/Day_4_materials/Quality_control_notebook.ipynb)
 
-# Topic 2: Tracking with TrackMate
 
+
+# Topic 2: Tracking with TrackMate I
+
+This course is aimed at beginners in bioimage analysis, that wants to learn how to analyse time-lapse movies. Such movies can follow the movement of cells, in 2D or 3D over time, or the motility of organelles and large objects. They offer unique insight into the dynamics of biology objects, on the evolution of their morphology and of molecular processes, imaged via transmission light or fluorescence microscopy. 
+
+The course starts a brief theoretical introduction about tracking algorithms, and is followed by a hands-on tutorial. For the tutorial we will use TrackMate (https://imagej.net/plugins/trackmate/), which is a somewhat popular Fiji plugin for tracking, developed in the Image Analysis Hub.
+
+For the practicals of today, we will learn how to use TrackMate with demo images. 
+Please download them from here in advance:
+
+https://dl.pasteur.fr/fop/QIc4l6FH/PasteurNEUBIAScourse-TrackMateTutorialsMaterias.zip (165 MB)
+
+![Screenshot 2025-04-30 at 17 09 13](https://github.com/user-attachments/assets/bd548c8b-cbd2-41d0-be2e-13d607a09eb8)
+
+The zipped folder contains the demo files required for the practicals, and PDFs of the TrackMate manuals.
+You can also follow the documentation online: https://imagej.net/plugins/trackmate/
 
 
 
