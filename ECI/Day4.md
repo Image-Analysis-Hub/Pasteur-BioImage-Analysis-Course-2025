@@ -80,8 +80,8 @@ https://dl.pasteur.fr/fop/QIc4l6FH/PasteurNEUBIAScourse-TrackMateTutorialsMateri
 
 ![Screenshot 2025-04-30 at 17 09 13](https://github.com/user-attachments/assets/bd548c8b-cbd2-41d0-be2e-13d607a09eb8)
 
-The zipped folder contains the demo files required for the practicals, and PDFs of the TrackMate manuals.
-You can also follow the documentation online: https://imagej.net/plugins/trackmate/
+The zipped folder contains the demo files required for the practicals, and PDFs of the TrackMate manuals (you don't have to read them!!).
+You can also follow the documentation online: https://imagej.net/plugins/trackmate/ (not required for the course!!)
 
 
 
