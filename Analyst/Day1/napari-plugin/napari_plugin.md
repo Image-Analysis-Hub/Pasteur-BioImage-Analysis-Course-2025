@@ -27,7 +27,7 @@
 
 ## Coffee Break (16:00 - 16:30)
 
-## Practical 2: Distirbute your plugin (16:30 - 17:30)
+## Practical 2: Distribute your plugin (16:30 - 17:30)
 - Package plugin with cookiecutter
 - Create a GitHub page for your plugin and document it
 - Make the package intsallable with pypi
