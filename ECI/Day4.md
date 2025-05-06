@@ -73,7 +73,7 @@ Once your model is trained, you will move on to the next phase: Quality Control 
 By the end of this segment, you’ll be equipped with the knowledge and tools to conduct thorough QC and confidently apply your model to real-world microscopy data.
 
 
-> **Link to Quality conrol notebook**
+> **Link to Quality control notebook**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025/blob/main/ECI/Day_4_materials/Quality_control_notebook.ipynb)
 
 
