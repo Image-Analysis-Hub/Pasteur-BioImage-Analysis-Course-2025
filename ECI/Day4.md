@@ -1,5 +1,20 @@
 This page collects instructions, links and materials for the Day 4
 
+# Pre-workshop tasks:
+
+## 1. Install Fiji and plugins
+
+- Make sure you have Fiji installed
+- Activate LOCI update site
+
+## 2. Make sure you have a Google account
+- Workshop materials may occupy several GBs. If you don't have enough spavce on your google drive consider setting up a new Google account for the workshop.
+
+## 3. Download the workshop materials
+- Download the workshop materials form here -> **[Download workshop materials](https://drive.google.com/drive/folders/1pb7d8rvySsq1kjn0gFqC6k04OZgwB8Qg?usp=sharing)** <br />
+- Upload the materials to your google drive, keep the same folder structure
+
+
 # Topic 1: Deep learning using BiaPy
 
 Contents:
