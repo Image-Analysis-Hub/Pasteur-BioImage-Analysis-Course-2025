@@ -201,6 +201,7 @@ dependencies:
   - napari-plugin-engine=0.2.0=pyha07c04f_3
   - napari-plugin-manager=0.1.6=pyha07c04f_0
   - napari-svg=0.2.1=pyha07c04f_0
+  - narwhals=1.37.0=pyh29332c3_0
   - nbclient=0.10.2=pyhd8ed1ab_0
   - nbconvert-core=7.16.6=pyh29332c3_0
   - nbformat=5.10.4=pyhd8ed1ab_1
@@ -216,7 +217,7 @@ dependencies:
   - numpydoc=1.8.0=pyhd8ed1ab_1
   - openjpeg=2.5.3=h5fbd93e_0
   - openldap=2.6.9=he970967_0
-  - openssl=3.5.0=h7b32b05_0
+  - openssl=3.5.0=h7b32b05_1
   - overrides=7.7.0=pyhd8ed1ab_1
   - packaging=25.0=pyh29332c3_1
   - pandas=2.2.3=py310h5eaa309_3
@@ -232,6 +233,7 @@ dependencies:
   - pixman=0.44.2=h29eaf8c_0
   - pkgutil-resolve-name=1.3.10=pyhd8ed1ab_2
   - platformdirs=4.3.7=pyh29332c3_0
+  - plotly=6.0.1=pyhd8ed1ab_0
   - pooch=1.8.2=pyhd8ed1ab_1
   - prometheus_client=0.21.1=pyhd8ed1ab_0
   - prompt-toolkit=3.0.51=pyha770c72_0
