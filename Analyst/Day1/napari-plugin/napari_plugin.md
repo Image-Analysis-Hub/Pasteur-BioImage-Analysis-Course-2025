@@ -26,7 +26,7 @@
 
 ## Coffee Break (16:00 - 16:30)
 
-## Practical 2: Make your own PyQt plugin - advanced (16:00 - 17:30)
+## Practical 2: Make your own PyQt plugin - advanced (16:30 - 17:30)
 
 - Write the same plugin using PyQt
 
