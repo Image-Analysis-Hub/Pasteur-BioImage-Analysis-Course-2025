@@ -6,3 +6,8 @@
 4) Update napari to the latest version: `conda update napari`
 5) Open napari: `napari`
 6) Verify that you installed version 0.6.0: `napari --version`
+
+# Install Jupyter Lab 
+1) Install Jupyter Lab: `conda install -c conda-forge jupyterlab`
+2) Clone the Pasteur-BioImage-Analysis-Course-2025 repository
+3) Navigate to Analyst/Day1/napari-plugin and launch Jupyter Lab: `jupyter lab`
