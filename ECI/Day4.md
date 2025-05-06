@@ -23,7 +23,7 @@ Contents:
 - What is BiaPy?
 - How can you use BiaPy?
 - Quality control in deep learning: From dataset validation to model performance monitoring.
-- Tools available in ZerocostDL4Mic for segmentation, denoising, and super-resolution.
+- Tools available in BiaPy for segmentation, denoising, and super-resolution.
 - Example of deep learning in microscopy: Analyzing cancer cell behavior in microfluidics.
 - By the end of the lecture, you’ll have a basic understanding of deep learning and how to train an instance segmentation model using BiaPy.
 
