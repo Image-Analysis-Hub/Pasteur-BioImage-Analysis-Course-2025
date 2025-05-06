@@ -12,5 +12,6 @@
 2) Clone the Pasteur-BioImage-Analysis-Course-2025 repository
 3) Navigate to Analyst/Day1/napari-plugin and launch Jupyter Lab: `jupyter lab`
 
-# Install matplotlib
+# Additional packages
 1) Install matplotlib: `pip install matplotlib`
+2) Install connected-components-3d: `pip install connected-components-3d`
