@@ -13,10 +13,11 @@
 - Magicgui
 - PyQt
 - Packaging your plugin with coockiecuter
-- Make tour package installable through pypi
-- The importance of tests
+- Make your package installable on pypi
+- Adding tests
+- Versioning with git-tags
 
-## Practical 1: Make your own magicgui plugin (15:00 - 17:30)
+## Practical 1: Make your own magicgui plugin (15:00 - 16:00)
 
 - Write a custom Python function
 - Add magicgui decorator
@@ -26,9 +27,15 @@
 
 ## Coffee Break (16:00 - 16:30)
 
-## Practical 2: Make your own PyQt plugin - advanced (16:30 - 17:30)
+## Practical 2: Distirbute your plugin (16:30 - 17:30)
+- Package plugin with cookiecutter
+- Create a GitHub page for your plugin and document it
+- Make the package intsallable with pypi
+
+## Practical 3: Make your own PyQt plugin - advanced (16:30 - 17:30)
 
 - Write the same plugin using PyQt
+- Extend it with features specific to PyQt
 
 ## Present your plugin to the group (17:30 - 18:00)
 
