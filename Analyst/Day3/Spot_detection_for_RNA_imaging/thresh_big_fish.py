@@ -20,6 +20,12 @@ dt = DetectionPipeline()
 
 
 class SpotsThresholding:
+    """
+    Tool used to find in a semi automated way the spots.
+    
+    
+    06/05/25    Jacques BOURG    
+    """
     def __init__(
         self,
         BATCH: List[
