@@ -31,9 +31,9 @@ Contents:
 
 Joanna Pylvänäinen, Åbo Akademi University. Turku, Finland, joanna.pylvanainen@abo.fi
 
-## Session 1: Lecture: Leveraging Deep Learning for Microscopy Image Analysis and BiaPy
+## Session 1: Lecture: Deep Learning for Microscopy Image Analysis using BiaPy
 
-In this lecture, we will explore BiaPy, a powerful and accessible toolbox designed to help researchers and students train deep learning models for microscopy image analysis. We will start with an introduction to deep learning and its applications in microscopy, followed by a detailed discussion of how BiaPy simplifies the process of building and applying neural networks, even for those with limited computational resources.
+In this lecture, we will explore BiaPy, a powerful and accessible toolbox designed to help train deep learning models for microscopy image analysis. We will start with an introduction to deep learning and its applications in microscopy, followed by a detailed discussion of how BiaPy simplifies the process of building and applying neural networks, even for those with limited computational resources.
 
 > **[Lecture here (to be updated)]()** <br />
 
