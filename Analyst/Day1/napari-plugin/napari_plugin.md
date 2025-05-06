@@ -1,13 +1,13 @@
 # Napari Plugin Session
 
-## Primer on napari 
+## Primer on napari (14:00 - 14:30)
 
 - Installing and opening napari
 - Data types
 - Metadata
 - Reading and writing files 
 
-## Make your own plugin 
+## Primer on napari plugins (14:30 - 15:00)
 
 - Components of napari plugins: reader, writer and widget
 - Magicgui
@@ -16,7 +16,7 @@
 - Make tour package installable through pypi
 - The importance of tests
 
-## Practical 1: Magicgui plugin 
+## Practical 1: Make your own magicgui plugin (15:00 - 17:30)
 
 - Write a custom Python function
 - Add magicgui decorator
@@ -24,10 +24,12 @@
 - Threading
 - Open plugin in napari and run function on sample data
 
-## Practical 2: PyQt plugin (Advanced)
+## Coffee Break (16:00 - 16:30)
+
+## Practical 2: Make your own PyQt plugin - advanced (16:00 - 17:30)
 
 - Write the same plugin using PyQt
 
-## Present your plugin to the group
+## Present your plugin to the group (17:30 - 18:00)
 
 - Each participant showcases their plugin (2 min each)
