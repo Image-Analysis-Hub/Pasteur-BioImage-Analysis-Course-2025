@@ -5,3 +5,4 @@
 3) Install napari: `conda install -c conda-forge napari pyqt`
 4) Update napari to the latest version: `conda update napari`
 5) Open napari: `napari`
+6) Verify that you installed version 0.6.0: `napari --version`
