@@ -18,7 +18,7 @@ java -version
 
 If you see something like
 ```
-java version **"21.x.y"** 2025-04-15 LTS
+java version "21.x.y" 2025-04-15 LTS
 Java(TM) SE Runtime Environment (build 21.0.7+8-LTS-245)
 Java HotSpot(TM) 64-Bit Server VM (build 21.0.7+8-LTS-245, mixed mode, sharing)
 ```
@@ -30,11 +30,26 @@ https://www.oracle.com/java/technologies/downloads/#java21
 
 Ask the helpers if you have doubt about what version to install.
 
+### Installing Icy
 
-
-that you can download from:
+You can dowload the alpha of Icy from here:
 
 TODO TODO
+
+The double-click the app. 
+If Java was properly installed, you should see a window like this one:
+<img width="1452" alt="Screenshot 2025-05-06 at 10 01 58" src="https://github.com/user-attachments/assets/dac20284-1028-4851-a441-b5b7523da2fa" />
+
+In the first run, Icy will copy libraries to an adequate folder in your home directory.
+
+### Downloading the training materials
+
+Please download the training materials from there:
+
+TODO TODO
+
+
+
 
 
 
