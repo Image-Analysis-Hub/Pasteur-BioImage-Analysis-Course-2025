@@ -11,3 +11,6 @@
 1) Install Jupyter Lab: `conda install -c conda-forge jupyterlab`
 2) Clone the Pasteur-BioImage-Analysis-Course-2025 repository
 3) Navigate to Analyst/Day1/napari-plugin and launch Jupyter Lab: `jupyter lab`
+
+# Install matplotlib
+1) Install matplotlib: `pip install matplotlib`
