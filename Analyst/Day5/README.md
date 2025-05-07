@@ -15,7 +15,7 @@ This page collects instructions, links and materials for the Day 5
 We will use a new python environment, we advise to use [miniforge](). Create one and activate it.
 
 ```bash
-mamba create --name cle python=3.11 -y
+mamba create --name cle python=3.12 -y
 mamba activate cle
 ```
 
