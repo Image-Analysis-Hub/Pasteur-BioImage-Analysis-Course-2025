@@ -9,7 +9,6 @@ Thumbs.db
 *.lif
 *.tiff
 *.npy
-*.png
 # PyCharm stuff
 .idea/
 
