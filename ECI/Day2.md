@@ -16,7 +16,6 @@ This page collects instructions, links and materials for the Day 2
 - Ilastik: download the latest version (1.4.1rc2) [here](https://www.ilastik.org/download). For Apple PC, use the version compatible with the chipset (Apple intel or Apple silicon). Please install Ilastik before the course since the installation is a bit long.
 - Fiji: http://fiji.sc/
 - Download the [dataset](https://drive.google.com/file/d/1y-shYx_DuZfwHG0aGRI7c1BK_W8Ko0IX/view?usp=sharing)
-- Download the course lecture (TBA)
 
 **Remark**: please bring your mouse since we will draw a lot! Using the trackpad of your laptop will make you cry!
 
