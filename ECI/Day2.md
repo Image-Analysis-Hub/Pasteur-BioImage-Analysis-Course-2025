@@ -11,7 +11,6 @@ This page collects instructions, links and materials for the Day 2
 - Hands-on
   - 2D nuclei segmentation
   - 3D nuclei segmentation
-  - Nuclei segmentation using neural networks
 
 **Preparation**
 - Ilastik: download the latest version (1.4.1rc2) [here](https://www.ilastik.org/download). For Apple PC, use the version compatible with the chipset (Apple intel or Apple silicon). Please install Ilastik before the course since the installation is a bit long.
