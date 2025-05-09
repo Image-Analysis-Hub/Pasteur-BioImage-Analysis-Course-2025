@@ -9,7 +9,7 @@ class ConvolutionExplorer:
         Jacques Bourg 02.05.2025  Neubias course
     """
     
-    def __init__(self, initial_image):
+    def __init__(self, initial_image, figsize=(15, 5)):
         
         # define the kernels
         kernel1 = np.zeros((11, 11))
@@ -92,7 +92,7 @@ class ConvolutionExplorer:
         self.ind = 0
         self.actual_kernel = self.kernel_list[self.ind]
         
-        self.fig, self.axes = plt.subplots(1, 3, figsize=(15, 5))
+        self.fig, self.axes = plt.subplots(1, 3, figsize=figsize)
         plt.subplots_adjust(bottom=0.25)
         self.ax_img1, self.ax_img2, self.ax_img3 = self.axes
 
