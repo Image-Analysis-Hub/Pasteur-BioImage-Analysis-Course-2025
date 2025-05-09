@@ -8,7 +8,7 @@ We will explore CellPose parameters and different versions of CellPose
 Clone this repository.
 In the repository directory, create a new virtual environnement:
 ```
-conda env create -n cellposenv --python=3.11 
+conda create -n cellposenv python=3.11 
 ```
 
 And activate the environment when it's done
@@ -19,7 +19,7 @@ conda activate cellposenv
 
 Install the dependencies:
 ```
-conda install cellpos.yaml
+conda install cellpos.yml
 ```
 
 Finally, install in the src directory the version 3 of Cellpose:
