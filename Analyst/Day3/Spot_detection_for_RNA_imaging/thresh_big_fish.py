@@ -394,7 +394,7 @@ class SpotsThresholding:
         my_slider = QLabeledSlider(Qt.Orientation.Horizontal)
         my_slider.setMinimum(int(self.min_thresh))
         my_slider.setMaximum(int(self.max_thresh))
-        my_slider.setFixedWidth(1500)
+        my_slider.setFixedWidth(500)
         my_slider.sliderReleased.connect(
             lambda: self.update_threshold(viewer, self.im_fish, my_slider.value())
         )
@@ -423,12 +423,12 @@ class SpotsThresholding:
             name="Viewer Buttons",
         )  # Standard buttons + custom
 
-        button_widget.setFixedWidth(500)
+        button_widget.setFixedWidth(500) # 1500
 
         # Add the Matplotlib plot as a dock widget
         plot_widget = QWidget()
-        plot_widget.setFixedWidth(400)
-        plot_widget.setFixedHeight(400)
+        plot_widget.setFixedWidth(200) # 400
+        plot_widget.setFixedHeight(200)
         plot_layout = QVBoxLayout()
         plot_layout.addWidget(self.canvas)
         plot_widget.setLayout(plot_layout)
