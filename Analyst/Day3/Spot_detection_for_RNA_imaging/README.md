@@ -21,6 +21,8 @@ README.
 
     open it and (in the environment spot_course_env) do pip install . 
 
+   Or simply enter into the folder bigfish and do  pip install .  in the environment spot_course_env
+
 
 
 4- Go to the base environment:
@@ -29,6 +31,22 @@ README.
     
          conda env create -f ufish_env.yml    
 
+5-Return to your base environment:
+  launch jupyter notebook
+  
+  jupyter notebook
+  
+6- Open the first jupyter notebook "Spot detection RNA imaging" and select the kernel: spot_course_env. 
+
+
+
+Data: download your data in the /data file:
+
+https://dl.pasteur.fr/fop/NLhWwW7V/D.tif
+https://dl.pasteur.fr/fop/eL272JNp/C.tiff
+https://dl.pasteur.fr/fop/0r7OPGkV/B.tif
+https://dl.pasteur.fr/fop/0gtj5J3K/A.tif
+https://dl.pasteur.fr/fop/50rDpYSI/XPO-Im1-Cy3_MMStack_Pos0.ome.tif
 
 
 
