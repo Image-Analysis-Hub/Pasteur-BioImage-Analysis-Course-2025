@@ -16,7 +16,7 @@ Once activated, we will need the following package:
 - pyclesperanto 
 - dask
 - zarr
-- tifffiles
+- scikit-image
 - jupyter
 - pandas
 - (optional) cupy
@@ -25,7 +25,7 @@ Once activated, we will need the following package:
 > if you have an NVIDIA card, you can also install cupy
 
 ```bash
-mamba install pyclesperanto dask zarr tifffiles jupyter pandas -y
+mamba install pyclesperanto dask zarr jupyter pandas scikit-image -y
 ```
 
 And we can also install Napari for viewer
