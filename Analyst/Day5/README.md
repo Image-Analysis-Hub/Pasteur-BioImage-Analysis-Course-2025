@@ -28,7 +28,7 @@ Once activated, we will need the following package:
 - pandas
 - (optional) cupy
 
-> [NOTE]
+> [!NOTE]
 > if you have an NVIDIA card, you can also install cupy
 
 ```bash
@@ -51,3 +51,6 @@ python -c "import pyclesperanto as cle; print(cle.list_available_devices())"
 > * __MacOS__ `mamba install -c conda-forge ocl_icd_wrapper_apple`
 > * __LINUX__ `mamba install -c conda-forge ocl-icd-system`
 
+### Data to download
+
+[ToDownload and unzip at the root of the notebook](https://dl.pasteur.fr/fop/voUgjRtR/data.zip)
