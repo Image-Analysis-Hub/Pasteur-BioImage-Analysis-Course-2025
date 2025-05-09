@@ -3,7 +3,7 @@
 Monday May 12th - Friday May 16th 2025, Paris, France
 
 <td align="center">
-<img src="https://github.com/user-attachments/assets/5229b65c-0c75-4564-900f-83cb28fc32fb" alt="ECI Schedule">
+<img src="imgs/Pasteur NEUBIAS Course on Bioimage Analysis schedule-table.png" alt="Course Schedule at a glance">
 <br>
 </td>
 
