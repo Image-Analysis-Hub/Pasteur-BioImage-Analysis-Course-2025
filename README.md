@@ -7,17 +7,9 @@ Monday May 12th - Friday May 16th 2025, Paris, France
 <br>
 </td>
 
-## Course Schedule
+## Course materials and preparation
 
 <table>
-  </tr>
-    <tr>
-    <td align="center">
-          <a href="ECI/ECI_track.md">ECI track</a>
-    </td>
-    <td align="center">
-          <a href="Analyst/Analyst_track.md">Analysts track</a>
-    </td>
   </tr>
     <tr>
     <td align="center">
