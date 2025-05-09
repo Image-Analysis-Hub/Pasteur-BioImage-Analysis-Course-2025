@@ -16,3 +16,4 @@
 1) Install matplotlib: `pip install matplotlib`
 2) Install connected-components-3d: `pip install connected-components-3d`
 3) Install Cellpose: `pip install cellpose --upgrade`
+4) Install scikit-learn: `pip install scikit-learn`
