@@ -1,11 +1,3 @@
-> [!NOTE]
-> Guidelines for Teachers:
-> - To avoid conflict, please work on a branch and do a PR when doing large modifications
-> - Favorise open-source dataset links (e.g. zenodo)
-> - Favorise `.md` and `.ipynb` format as we will try to deploy the result course as a jupyter book afterward
-> - Current LICENSE is `CC-by`, we are open to change if needed / justified
-> - ...
-
 # Pasteur BioImage Analysis Course 2025
 
 Monday May 12th - Friday May 16th 2025, Paris, France
