@@ -2,6 +2,11 @@
 
 Monday May 12th - Friday May 16th 2025, Paris, France
 
+<td align="center">
+<img src="https://github.com/user-attachments/assets/5229b65c-0c75-4564-900f-83cb28fc32fb" alt="ECI Schedule">
+<br>
+</td>
+
 ## Course Schedule
 
 <table>
@@ -12,16 +17,6 @@ Monday May 12th - Friday May 16th 2025, Paris, France
     </td>
     <td align="center">
           <a href="Analyst/Analyst_track.md">Analysts track</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://research.pasteur.fr/wp-content/uploads/2024/10/research_pasteur-neubias-pasteur-course-on-bioimage-analysis-2025-research-pasteur-neubias-pasteur-course-on-bioimage-analysis-2025-eci-track-1.jpg" alt="ECI Schedule" width="345">
-      <br>
-    </td>
-    <td align="center">
-      <img src="https://research.pasteur.fr/wp-content/uploads/2024/10/research_pasteur-neubias-pasteur-course-on-bioimage-analysis-2025-research-pasteur-neubias-pasteur-course-on-bioimage-analysis-2025-analysts-track.jpg" alt="Analyst Schedule" width="390">
-      <br>
     </td>
   </tr>
     <tr>
