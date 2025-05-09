@@ -1,11 +1,4 @@
-This page collects instructions, links and materials for the Day 5
-# Day 5 (Friday, 16th of May)
-
-## Keynote: 
-
-> Auguste GENOVESIO
-
-## Accelerating Image Processing with GPU-ready Libraries I & II
+# Accelerating Image Processing with GPU-ready Libraries I & II
 
 > Teacher: Stéphane RIGAUD  
 > Helpers: Minh-Son Phan  
@@ -53,4 +46,4 @@ python -c "import pyclesperanto as cle; print(cle.list_available_devices())"
 
 ### Data to download
 
-[ToDownload and unzip at the root of the notebook](https://dl.pasteur.fr/fop/voUgjRtR/data.zip)
+[To Download and unzip at the root of the notebook](https://dl.pasteur.fr/fop/voUgjRtR/data.zip)
