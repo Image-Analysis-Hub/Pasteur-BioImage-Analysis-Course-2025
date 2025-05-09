@@ -8,11 +8,11 @@ This page collects instructions, links and materials for the Day 5
 ## Accelerating Image Processing with GPU-ready Libraries I & II
 
 > Teacher: Stéphane RIGAUD  
-> Helpers: tbc  
+> Helpers: Minh-Son Phan  
 
 ### Requirement & Install 
 
-We will use a new python environment, we advise to use [miniforge](). Create one and activate it.
+We will use a new python environment, we advise to use [miniforge](https://github.com/conda-forge/miniforge). Create one and activate it.
 
 ```bash
 mamba create --name cle python=3.12 -y
@@ -40,13 +40,14 @@ And we can also install Napari for viewer
 pip install 'napari[all]'
 ```
 
-to quickly verify that your install is working correctly, you can run the following command. It should return a list of processors or raise an error if your install is not working.
+to quickly verify that your install is working correctly, you can run the following command. It should return a list of devices or raise an error if your install is not working.
 
 ```bash
 python -c "import pyclesperanto as cle; print(cle.list_available_devices())"
 ```
 
 > [!IMPORTANT]
+> Additionnal package maybe required for MacOS and Linux:
 > * __MacOS__ `mamba install -c conda-forge ocl_icd_wrapper_apple`
 > * __LINUX__ `mamba install -c conda-forge ocl-icd-system`
 
