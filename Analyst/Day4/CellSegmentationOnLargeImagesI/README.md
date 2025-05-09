@@ -1,4 +1,4 @@
-# Cell segmentation with CellPose
+# Cell segmentation  on large images I: using CellPose
 
 In this course, we will see how to segment cells for spatial omics (in large 2D images) using CellPose.
 We will explore CellPose parameters and different versions of CellPose
@@ -29,7 +29,7 @@ pip install cellpose[distributed]==3.1.1.2 --target=src/cellpose3
 
 ## Data
 
-Download datasets here:
+Download datasets here: [https://dl.pasteur.fr/fop/arK1nNJz/data.zip ](https://dl.pasteur.fr/fop/arK1nNJz/data.zip)
 
 (or use your own data)
 
