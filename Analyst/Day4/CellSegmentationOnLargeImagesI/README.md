@@ -19,7 +19,7 @@ conda activate cellposenv
 
 Install the dependencies:
 ```
-conda install cellpos.yml
+pip install -r requirements
 ```
 
 Finally, install in the src directory the version 3 of Cellpose:
