@@ -10,7 +10,7 @@ This page collects instructions, links and materials for the Day 5
 > Teacher: Stéphane RIGAUD  
 > Helpers: tbc  
 
-### Requirement & Install
+### Requirement & Install 
 
 We will use a new python environment, we advise to use [miniforge](). Create one and activate it.
 
@@ -22,16 +22,22 @@ mamba activate cle
 Once activated, we will need the following package:
 - pyclesperanto 
 - dask
+- zarr
 - tifffiles
 - jupyter
-- matplotlib
+- pandas
 - (optional) cupy
 
 > [NOTE]
 > if you have an NVIDIA card, you can also install cupy
 
 ```bash
-mamba install pyclesperanto dask tiffiles jupyter matplotlib -y
+mamba install pyclesperanto dask zarr tifffiles jupyter pandas -y
+```
+
+And we can also install Napari for viewer
+```bash
+pip install 'napari[all]'
 ```
 
 to quickly verify that your install is working correctly, you can run the following command. It should return a list of processors or raise an error if your install is not working.
@@ -40,14 +46,7 @@ to quickly verify that your install is working correctly, you can run the follow
 python -c "import pyclesperanto as cle; print(cle.list_available_devices())"
 ```
 
-### Presentation & Practicals
+> [!IMPORTANT]
+> * __MacOS__ `mamba install -c conda-forge ocl_icd_wrapper_apple`
+> * __LINUX__ `mamba install -c conda-forge ocl-icd-system`
 
-#### Introduction to GPUs
-
-#### Image Processing using GPUs
-
-#### Custom Kernel execution
-
-#### Multi-GPU Tile distribution
-
-#### Benchmarking
