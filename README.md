@@ -13,6 +13,14 @@ Monday May 12th - Friday May 16th 2025, Paris, France
   </tr>
     <tr>
     <td align="center">
+      <b>ECI track</b>
+    </td>
+    <td align="center">
+      <b>Analysts track</b>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
       <a href="ECI/Day1.md">Day 1</a>
     </td>
     <td align="center">
