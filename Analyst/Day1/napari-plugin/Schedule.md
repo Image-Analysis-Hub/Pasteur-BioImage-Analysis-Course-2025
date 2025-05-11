@@ -1,42 +1,24 @@
 # Napari Plugin Session
 
-## Primer on napari (14:00 - 14:30)
+## Introduction to napari (14:00 - 14:30)
 
-- Installing and opening napari
-- Data types
-- Metadata
-- Reading and writing files 
+- Practical 0: Explore napari
 
-## Primer on napari plugins (14:30 - 15:00)
+## Practicals on building napari plugins (14:30 - 15:30)
 
-- Components of napari plugins: reader, writer and widget
-- Magicgui
-- PyQt
-- Packaging your plugin with coockiecuter
-- Make your package installable on pypi
-- Adding tests
-- Versioning with git-tags
+- Practical 1: Getting started with magicgui
+- Practical 2: More flexibility with magic_factory
+- Practical 3: Full flexibility with QtPy
 
-## Practical 1: Make your own magicgui plugin (15:00 - 16:00)
+## Group challenge (15:30 - 17:30)
 
-- Write a custom Python function
-- Add magicgui decorator
-- Explore different kinds of decorators
-- Threading
-- Open plugin in napari and run function on sample data
+Select one of the following group challenges:
+- Group Challenge 1: Measure Region Properties
+- Group Challenge 2: Image Registration
+- Group Challenge 3: Pixel Classifier
+- Group Challenge 4: Cell Tracking
+- Group Challenge 5: Advanced Measure Region Properties
 
-## Coffee Break (16:00 - 16:30)
+## Present your plugin (17:30 - 18:00)
 
-## Practical 2: Distribute your plugin (16:30 - 17:30)
-- Package plugin with cookiecutter
-- Create a GitHub page for your plugin and document it
-- Make the package intsallable with pypi
-
-## Practical 3: Make your own PyQt plugin - advanced (16:30 - 17:30)
-
-- Write the same plugin using PyQt
-- Extend it with features specific to PyQt
-
-## Present your plugin to the group (17:30 - 18:00)
-
-- Each participant showcases their plugin (2 min each)
+- Prepare a 5 min presentation on your plugin 
