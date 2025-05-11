@@ -16,11 +16,10 @@ Installing the required software.
 
 ### 16:00 - 16:30 - Coffee break
 
-### 16:30 - 18:00 - Getting started in image analysis with Fiji II
+### 16:30 - 18:00 - Developing Napari plugin II
 
 > Teacher: Daniel KRENTZEL    
 > Helpers: Marvin ALBERT
-
 
 ---
 
@@ -32,24 +31,24 @@ Installing the required software.
 
 ### 10:30 - 11: 00 - Coffee break
 
-### 11:00 - 12: 30 - AI in Computational Pathology I
+### 11:00 - 12: 30 - Training Neural Network Models and the BioImage Model Zoo
 
-> Teacher: Vannary MEAS-YEDID    
-> Helpers: Mounib BENIMAM
+> Teacher: Caterina FUSTER-BARCELO  
+> Helpers: Carlos GARCIA-LÒPEZ-DE-HARO    
 
 ### 12:30 - 14:00 - Lunch break
 
-### 14:00 - 16:00 - AI in Computational Pathology II
+### 14:00 - 16:00 - Development of AI-based pipeline with ICY
 
-> Teacher: Vannary MEAS-YEDID    
-> Helpers: Mounib BENIMAM
+> Teacher: Carlos GARCIA-LÒPEZ-DE-HARO    
+> Helpers: Caterina FUSTER-BARCELO, Vannary MEAS-YEDID 
 
 ### 16:00 - 16:30 - Coffee break
 
-### 16:30 - 18:00 - Development of AI-based pipeline with ICY 3
+### 16:30 - 18:00 - AI in Computational Biology
 
-> Teacher: Carlos GARCIA-LÒPEZ-DE-HARO    
-> Helpers: Thomas MUSSET
+> Teacher: Vannary MEAS-YEDID 
+> Helpers: Mounib BENIMAM
 
 ---
 
@@ -63,22 +62,22 @@ Installing the required software.
 
 ### 11:00 - 12: 30 - OME-Zarr and modern file format for large images
 
-> Teacher: tbc  
-> Helpers: tbc
+> Teacher: Marvin ALBERT    
+> Helpers: Daniel KRENTZEL
 
 ### 12:30 - 14:00 - Lunch break
 
 ### 14:00 - 16:00 - Stitching, Registration, and Multimodality Processing I
 
 > Teacher: Marvin ALBERT    
-> Helpers: tbc
+> Helpers: Daniel KRENTZEL
 
 ### 16:00 - 16:30 - Coffee break
 
-### 16:30 - 18:00 - Stitching, Registration, and Multimodality Processing II
+### 16:30 - 18:00 - Spot detection for RNA Imaging I
 
-> Teacher: Marvin ALBERT    
-> Helpers: tbc
+> Teacher: Jacques BOURG    
+> Helpers: Gaëlle LETORT
 
 ---
 
@@ -90,10 +89,10 @@ Installing the required software.
 
 ### 10:30 - 11: 00 - Coffee break
 
-### 11:00 - 12: 30 - Spot detection on large images
+### 11:00 - 12: 30 - Spot detection for RNA Imaging II
 
 > Teacher: Jacques BOURG    
-> Helpers: Alice BLONDEL & Gaëlle LETORT
+> Helpers: Gaëlle LETORT
 
 ### 12:30 - 14:00 - Lunch break
 

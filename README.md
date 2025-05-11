@@ -1,36 +1,15 @@
-> [!NOTE]
-> Guidelines for Teachers:
-> - To avoid conflict, please work on a branch and do a PR when doing large modifications
-> - Favorise open-source dataset links (e.g. zenodo)
-> - Favorise `.md` and `.ipynb` format as we will try to deploy the result course as a jupyter book afterward
-> - Current LICENSE is `CC-by`, we are open to change if needed / justified
-> - ...
-
 # Pasteur BioImage Analysis Course 2025
 
 Monday May 12th - Friday May 16th 2025, Paris, France
 
-## Course Schedule
+<td align="center">
+<img src="imgs/Pasteur NEUBIAS Course on Bioimage Analysis schedule-table.png" alt="Course Schedule at a glance">
+<br>
+</td>
+
+## Course materials and preparation
 
 <table>
-  </tr>
-    <tr>
-    <td align="center">
-          <a href="ECI/ECI_track.md">ECI track</a>
-    </td>
-    <td align="center">
-          <a href="Analyst/Analyst_track.md">Analysts track</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://research.pasteur.fr/wp-content/uploads/2024/10/research_pasteur-neubias-pasteur-course-on-bioimage-analysis-2025-research-pasteur-neubias-pasteur-course-on-bioimage-analysis-2025-eci-track-1.jpg" alt="ECI Schedule" width="345">
-      <br>
-    </td>
-    <td align="center">
-      <img src="https://research.pasteur.fr/wp-content/uploads/2024/10/research_pasteur-neubias-pasteur-course-on-bioimage-analysis-2025-research-pasteur-neubias-pasteur-course-on-bioimage-analysis-2025-analysts-track.jpg" alt="Analyst Schedule" width="390">
-      <br>
-    </td>
   </tr>
     <tr>
     <td align="center">
