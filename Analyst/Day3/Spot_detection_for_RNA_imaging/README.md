@@ -18,28 +18,33 @@ README.
 
 4- install the backend ipympl
     
-    pip install ipympl
+    > pip install ipympl
 
 
-5- clone big fish at:
-        https://github.com/fish-quant/big-fish/tree/e951ea850b18be4be70c5d0a419ba524c3a59ada
+5- clone big fish in a folder of your choice:
 
-    open it and (in the environment spot_course_env) do pip install . 
-
-   Or simply enter into the folder bigfish and do  pip install .  in the environment spot_course_env
+    > git clone https://github.com/fish-quant/big-fish.git
 
 
+    open it and (in the environment spot_course_env) do
+
+    > pip install . 
+
+   
 
 6- Go to the base environment:
 
     install the environment ufish environment:
     
-         conda env create -f ufish_env.yml    
+     > conda env create -f ufish_env.yml    
 
-7-Return to your base environment:
-  launch jupyter notebook
+7- Return to your spot_course_env environment:
+
+  > conda activate  spot_course_env
+
+8- Launch jupyter notebook
   
-  jupyter notebook
+  > jupyter notebook
   
 8- Open the first jupyter notebook "Spot detection RNA imaging" and select the kernel: spot_course_env. 
 
