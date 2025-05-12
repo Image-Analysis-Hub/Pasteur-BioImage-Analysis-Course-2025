@@ -35,15 +35,15 @@ Joanna Pylvänäinen, Åbo Akademi University. Turku, Finland, joanna.pylvanaine
 
 In this lecture, we will explore BiaPy, a powerful and accessible toolbox designed to help train deep learning models for microscopy image analysis. We will start with an introduction to deep learning and its applications in microscopy, followed by a detailed discussion of how BiaPy simplifies the process of building and applying neural networks, even for those with limited computational resources.
 
-> **[Lecture here (to be updated)]()** <br />
+> **[Lecture here](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025/blob/main/ECI/Day_4_materials/BiaPy_lecture_2025.pdf)** <br />
 
 ## Session 2: Hands-on: Preparing, Training, and Evaluating a Deep Learning Model for Instance Segmentation in Microscopy
 
 In this comprehensive hands-on session, you will gain practical experience with the full workflow of training a deep learning model for instance segmentation tasks in microscopy, using the BiaPy platform. This session integrates two crucial stages of deep learning workflows: 1) data preparation and training and 2) model evaluation and deployment.
 
-> **[Lecture here (to be updated)]()** <br />
-> **[BiaPy plarform](https://biapyx.github.io/)** <br />
-> **[Download demo data](https://drive.google.com/drive/folders/1pb7d8rvySsq1kjn0gFqC6k04OZgwB8Qg?usp=sharing)** <br />
+> **[Workshop walk-through here](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025/blob/main/ECI/Day_4_materials/BiaPy_workshop_2025.pdf)** <br />
+> **[BiaPy platform](https://biapyx.github.io/)** <br />
+> **[Download workshop materials](https://drive.google.com/drive/folders/1pb7d8rvySsq1kjn0gFqC6k04OZgwB8Qg?usp=sharing)** <br />
 
 
 **Part1: Preparing Data and Training an Instance Segmentation Model**

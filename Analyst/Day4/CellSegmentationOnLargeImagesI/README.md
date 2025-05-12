@@ -19,12 +19,12 @@ conda activate cellposenv
 
 Install the dependencies:
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 Finally, install in the src directory the version 3 of Cellpose:
 ```
-pip install cellpose[distributed]==3.1.1.2 --target=src/cellpose3
+pip install 'cellpose[distributed]'==3.1.1.2 --target=src/cellpose3
 ```
 
 ## Data
