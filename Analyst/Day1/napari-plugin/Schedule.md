@@ -2,8 +2,8 @@
 
 ## Introduction to napari (14:00 - 14:30)
 
-- Explore napari viewer
-- Napari plugin ecosystem
+- Exploring the napari viewer
+- The napari plugin ecosystem
 
 ## Practicals on building napari plugins (14:30 - 15:30)
 
