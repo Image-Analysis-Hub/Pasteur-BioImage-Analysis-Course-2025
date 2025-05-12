@@ -1,0 +1,119 @@
+<protocol VERSION="4">
+<blocks>
+<workflow ID="1865680670" blockType="plugins.adufour.blocks.lang.FileBatch" className="plugins.adufour.blocks.lang.FileBatch" collapsed="false" definedName="File batch" height="712" keepsResults="true" width="1594" xLocation="0" yLocation="0">
+<blocks>
+<block ID="1230611618" blockType="plugins.adufour.blocks.tools.io.FileToSequence" className="plugins.adufour.blocks.tools.io.FileToSequence" collapsed="false" definedName="File to sequence" height="109" keepsResults="true" width="212" xLocation="331" yLocation="23">
+<variables>
+<input>
+<variable ID="input file" name="input file" runtime="false" visible="true"/>
+<variable ID="Series" name="Series" runtime="false" value="0" visible="true"/>
+</input>
+<output>
+<variable ID="sequence" name="sequence" runtime="false" visible="true"/>
+</output>
+</variables>
+</block>
+<block ID="254026880" blockType="plugins.carlosuc3m.deepicy.DeepIcy" className="plugins.carlosuc3m.deepicy.DeepIcy" collapsed="false" definedName="Deep icy" height="127" keepsResults="true" width="287" xLocation="113" yLocation="175">
+<variables>
+<input>
+<variable ID="inputImage" name="Input image" runtime="false" visible="true"/>
+<variable ID="modelFolderSelector" name="Model folder" runtime="false" value="model" visible="true"/>
+<variable ID="modelNameSelector" name="Model name" runtime="false" value="model" visible="true"/>
+</input>
+<output>
+<variable ID="outputImageSelector" name="Output image" runtime="false" visible="true"/>
+</output>
+</variables>
+</block>
+<block ID="461159298" blockType="plugins.adufour.thresholder.Thresholder" className="plugins.adufour.thresholder.Thresholder" collapsed="false" definedName="Thresholder" height="182" keepsResults="true" width="301" xLocation="454" yLocation="167">
+<variables>
+<input>
+<variable ID="Input" name="Input" runtime="false" visible="true"/>
+<variable ID="channel" name="channel" runtime="false" value="0" visible="true"/>
+<variable ID="Manual thresholds" name="Manual thresholds" runtime="false" value="0.9" visible="true"/>
+<variable ID="Treat as percentiles" name="Treat as percentiles" runtime="false" value="false" visible="true"/>
+</input>
+<output>
+<variable ID="output" name="Binary output" runtime="false" visible="true"/>
+<variable ID="ROI" name="ROI" runtime="false" visible="true"/>
+</output>
+</variables>
+</block>
+<block ID="26849082" blockType="plugins.adufour.roi.ROIMeasures" className="plugins.adufour.roi.ROIMeasures" collapsed="false" definedName="ROI Statistics" height="129" keepsResults="true" width="294" xLocation="59" yLocation="445">
+<variables>
+<input>
+<variable ID="measures" name="Select features..." runtime="false" value="131076" visible="true"/>
+<variable ID="Regions of interest" name="Regions of interest" runtime="false" visible="true"/>
+<variable ID="Sequence" name="Sequence" runtime="false" visible="true"/>
+</input>
+<output>
+<variable ID="Workbook" name="Workbook" runtime="false" visible="true"/>
+</output>
+</variables>
+</block>
+<block ID="609068835" blockType="plugins.adufour.blocks.tools.io.WorkbookToFile" className="plugins.adufour.blocks.tools.io.WorkbookToFile" collapsed="false" definedName="Workbook to file" height="207" keepsResults="true" width="511" xLocation="475" yLocation="412">
+<variables>
+<input>
+<variable ID="workbook" name="workbook" runtime="false" visible="true"/>
+<variable ID="file format" name="file format" runtime="false" value="Spreadsheet" visible="true"/>
+<variable ID="output file" name="output file" runtime="false" value="/home/carlos/git/Pasteur-BioImage-Analysis-Course-2025/Analyst/Day2/Training_neural_network_models_and_the_bmz_AND_Development_of_an_AIbased_pipeline_with_Icy/results.xlsx" visible="true"/>
+<variable ID="If file exists" name="If file exists" runtime="false" value="Merge_sheets___excluding_first_row" visible="true"/>
+</input>
+<output/>
+</variables>
+</block>
+<block ID="552310547" blockType="plugins.adufour.blocks.tools.Display" className="plugins.adufour.blocks.tools.Display" collapsed="false" definedName="Display" height="147" keepsResults="true" width="152" xLocation="883" yLocation="184">
+<variables>
+<input>
+<variable ID="object" name="object" runtime="false" type="icy.sequence.Sequence" visible="true"/>
+</input>
+<output/>
+</variables>
+</block>
+</blocks>
+<links>
+<link dstBlockID="1230611618" dstVarID="input file" srcBlockID="1865680670" srcVarID="file"/>
+<link dstBlockID="254026880" dstVarID="inputImage" srcBlockID="1230611618" srcVarID="sequence"/>
+<link dstBlockID="461159298" dstVarID="Input" srcBlockID="254026880" srcVarID="outputImageSelector"/>
+<link dstBlockID="26849082" dstVarID="Regions of interest" srcBlockID="461159298" srcVarID="ROI"/>
+<link dstBlockID="609068835" dstVarID="workbook" srcBlockID="26849082" srcVarID="Workbook"/>
+<link dstBlockID="26849082" dstVarID="Sequence" srcBlockID="1230611618" srcVarID="sequence"/>
+<link dstBlockID="552310547" dstVarID="object" srcBlockID="461159298" srcVarID="output"/>
+</links>
+<variables>
+<input>
+<variable ID="folder" blockID="1865680670" value="/home/carlos/git/Pasteur-BioImage-Analysis-Course-2025/Analyst/Day2/Training_neural_network_models_and_the_bmz_AND_Development_of_an_AIbased_pipeline_with_Icy/ctc-glioblastoma-66im/test/sources" visible="true"/>
+<variable ID="extension" blockID="1865680670" value=".png" visible="true"/>
+<variable ID="Include sub-folders" blockID="1865680670" value="false" visible="true"/>
+<variable ID="1230611618:input file" blockID="1230611618" value="" visible="false"/>
+<variable ID="1230611618:Series" blockID="1230611618" value="0" visible="false"/>
+<variable ID="254026880:inputImage" blockID="254026880" value="/home/carlos/git/Pasteur-BioImage-Analysis-Course-2025/Analyst/Day2/Training_neural_network_models_and_the_bmz_AND_Development_of_an_AIbased_pipeline_with_Icy/ctc-glioblastoma-66im/test/sources/0018.png" visible="false"/>
+<variable ID="254026880:modelFolderSelector" blockID="254026880" value="model" visible="false"/>
+<variable ID="254026880:modelNameSelector" blockID="254026880" value="model" visible="false"/>
+<variable ID="461159298:Input" blockID="461159298" value="ArrayImg [512x512x1x1] - XYCZ" visible="false"/>
+<variable ID="461159298:channel" blockID="461159298" value="0" visible="false"/>
+<variable ID="461159298:Manual thresholds" blockID="461159298" value="0.9" visible="false"/>
+<variable ID="461159298:Treat as percentiles" blockID="461159298" value="false" visible="false"/>
+<variable ID="26849082:measures" blockID="26849082" value="131076" visible="false"/>
+<variable ID="26849082:Regions of interest" blockID="26849082" value="1 ROI" visible="false"/>
+<variable ID="26849082:Sequence" blockID="26849082" value="/home/carlos/git/Pasteur-BioImage-Analysis-Course-2025/Analyst/Day2/Training_neural_network_models_and_the_bmz_AND_Development_of_an_AIbased_pipeline_with_Icy/ctc-glioblastoma-66im/test/sources/0018.png" visible="false"/>
+<variable ID="609068835:workbook" blockID="609068835" value="" visible="false"/>
+<variable ID="609068835:file format" blockID="609068835" value="Spreadsheet" visible="false"/>
+<variable ID="609068835:output file" blockID="609068835" value="/home/carlos/git/Pasteur-BioImage-Analysis-Course-2025/Analyst/Day2/Training_neural_network_models_and_the_bmz_AND_Development_of_an_AIbased_pipeline_with_Icy/results.xlsx" visible="false"/>
+<variable ID="609068835:If file exists" blockID="609068835" value="Merge_sheets___excluding_first_row" visible="false"/>
+<variable ID="552310547:object" blockID="552310547" value="" visible="false"/>
+</input>
+<output>
+<variable ID="iteration" blockID="1865680670" visible="true"/>
+<variable ID="file" blockID="1865680670" visible="true"/>
+<variable ID="1230611618:sequence" blockID="1230611618" visible="false"/>
+<variable ID="254026880:outputImageSelector" blockID="254026880" visible="false"/>
+<variable ID="461159298:output" blockID="461159298" visible="false"/>
+<variable ID="461159298:ROI" blockID="461159298" visible="false"/>
+<variable ID="26849082:Workbook" blockID="26849082" visible="false"/>
+</output>
+</variables>
+</workflow>
+</blocks>
+<links/>
+</protocol>
