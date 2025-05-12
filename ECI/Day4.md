@@ -43,7 +43,7 @@ In this comprehensive hands-on session, you will gain practical experience with 
 
 > **[Workshop walk-through here](https://github.com/Image-Analysis-Hub/Pasteur-BioImage-Analysis-Course-2025/blob/main/ECI/Day_4_materials/BiaPy_workshop_2025.pdf)** <br />
 > **[BiaPy platform](https://biapyx.github.io/)** <br />
-> **[Download demo data](https://drive.google.com/drive/folders/1pb7d8rvySsq1kjn0gFqC6k04OZgwB8Qg?usp=sharing)** <br />
+> **[Download workshop materials](https://drive.google.com/drive/folders/1pb7d8rvySsq1kjn0gFqC6k04OZgwB8Qg?usp=sharing)** <br />
 
 
 **Part1: Preparing Data and Training an Instance Segmentation Model**
