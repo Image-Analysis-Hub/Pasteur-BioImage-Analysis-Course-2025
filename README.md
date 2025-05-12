@@ -73,7 +73,7 @@ Monday May 12th - Friday May 16th 2025, Paris, France
 - [Mounib BENIMAM](https://research.pasteur.fr/en/member/mounib-mohamed-benimam/) - Biological Image Analysis research unit, Institut Pasteur
 - [Stephan FISCHER](https://research.pasteur.fr/en/member/stephan-fischer/) - Bioinformatics and Biostatistics Hub, C2RI, Institut Pasteur
 - Caterina FUSTER-BARCELÓ - Universidad Carlos III de Madrid
-- Carlos GARCIA-LÒPEZ-DE-HARO - Universidad Carlos III de Madrid
+- [Carlos GARCIA-LÒPEZ-DE-HARO](https://github.com/carlosuc3m) - Universidad Carlos III de Madrid
 - Auguste GENOVESIO - Computational Bioimaging and Bioinformatics reserach unit, École Normale Supérieure
 - Florian JUG - Human Technolopole Milan
 - [Daniel KRENTZEL](https://research.pasteur.fr/en/member/daniel-krentzel/) - Imaging and Modeling research unit, Institut Pasteur
