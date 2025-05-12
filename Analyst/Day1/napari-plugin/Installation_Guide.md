@@ -16,3 +16,4 @@
 3) Install Cellpose: `pip install cellpose --upgrade`
 4) Install scikit-learn: `pip install scikit-learn`
 5) Install scikit-image: `pip install scikit-image`
+6) Install btrack: `pip install btrack`
