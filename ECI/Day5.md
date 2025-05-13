@@ -16,4 +16,5 @@ Contents:
 
 ## Preparing for the practicals
 
-Nothing to do! We will rely on Google Colab like BiaPy practicals did, and we will use the tracking results obtained with TrackMate during the previous session. Backup tracking results will be available in case you have any issue with the ones you generated.
+Nothing to do! We will rely on Google Colab like BiaPy practicals did, and we will use the tracking results obtained with TrackMate during the previous session.  
+Backup tracking results are available here in case you have any issue with the ones you generated -> **[Backup tracking dataset](https://drive.google.com/drive/folders/1bSMnoiRw39kQqfM6XpdYKq4HbQOFPWEu?usp=drive_link)**
