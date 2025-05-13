@@ -82,6 +82,8 @@ You can dowload the alpha of Icy from here:
 
 [Google Drive](https://drive.google.com/drive/folders/1HzOoC6JLYcDfQQrrZC7QXRBmXHhgqYGa?usp=share_link)
 
+[OneDrive](https://1drv.ms/f/s!AjYcCRMJw3HvsF3ysVnK9jdvuPRn?e=vMv5XO)
+
 - If you are on a Mac :
   - Download the DMG file then open it by double-clicking it
   - Move the Icy 3 app on your Applications folder
