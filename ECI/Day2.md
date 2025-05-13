@@ -78,7 +78,9 @@ If you are not able to run VTK in Icy, it's not a huge problem, you just have to
 
 You can dowload the alpha of Icy from here:
 
-[https://mega.nz/folder/O8tTmZCC#d4Q8IGyDT38g-owsldJxMw](https://mega.nz/folder/O8tTmZCC#d4Q8IGyDT38g-owsldJxMw)
+[MEGA](https://mega.nz/folder/O8tTmZCC#d4Q8IGyDT38g-owsldJxMw)
+
+[Google Drive](https://drive.google.com/drive/folders/1HzOoC6JLYcDfQQrrZC7QXRBmXHhgqYGa?usp=share_link)
 
 - If you are on a Mac :
   - Download the DMG file then open it by double-clicking it
