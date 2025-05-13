@@ -1,0 +1,20 @@
+name: ome_zarr
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - ipympl
+  - matplotlib
+  - jupyterlab
+  - numpy
+  - pandas
+  - dask
+  - dask-image
+  - ome-zarr
+  - napari
+  - pyqt=5
+  - napari-ome-zarr
+  - tqdm
+  - ipycytoscape
+  - pip
