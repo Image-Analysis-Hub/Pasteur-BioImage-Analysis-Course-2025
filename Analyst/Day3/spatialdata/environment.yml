@@ -1,0 +1,28 @@
+name: spatialdata
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - ipympl
+  - matplotlib
+  - jupyterlab
+  - scikit-image
+  - numpy
+  - pandas
+  - dask
+  - dask-image
+  - ome-zarr
+  - napari
+  - pyqt=5
+  - napari-ome-zarr
+  - tqdm
+  # - spatialdata
+  - ipycytoscape
+  - pytest
+  - pyproj
+  - pip
+  - pip:
+    - squidpy
+    - ngff-zarr
+    - spatialdata[extra]
