@@ -47,3 +47,24 @@ python -c "import pyclesperanto as cle; print(cle.list_available_devices())"
 ### Data to download
 
 [To Download and unzip at the root of the notebook](https://dl.pasteur.fr/fop/voUgjRtR/data.zip)
+
+
+## Bonus - Napari Assistant
+
+[Napari assistant](https://github.com/haesleinhuepf/napari-assistant) for quick image processing with interface
+
+For full usage, we rely on the [devbio-napari](https://github.com/haesleinhuepf/devbio-napari) package
+```
+mamba create --name devbio python=3.11 devbio-napari pyqt -c conda-forge -y
+```
+
+Update pyclesperanto to the latest version
+
+```
+pip install pyclesperanto -U
+```
+
+Start Napari-Assistant
+```
+naparia
+```
