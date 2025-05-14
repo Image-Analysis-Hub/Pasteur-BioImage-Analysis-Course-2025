@@ -8,8 +8,8 @@
 We will use a new python environment, we advise to use [miniforge](https://github.com/conda-forge/miniforge). Create one and activate it.
 
 ```bash
-mamba create --name cle python=3.12 -y
-mamba activate cle
+conda create --name cle python=3.12 -y
+conda activate cle
 ```
 
 Once activated, we will need the following package:
@@ -25,7 +25,7 @@ Once activated, we will need the following package:
 > if you have an NVIDIA card, you can also install cupy
 
 ```bash
-mamba install pyclesperanto dask zarr jupyter pandas scikit-image -y
+conda install pyclesperanto dask zarr jupyter pandas scikit-image -y
 ```
 
 And we can also install Napari for viewer
@@ -41,8 +41,8 @@ python -c "import pyclesperanto as cle; print(cle.list_available_devices())"
 
 > [!IMPORTANT]
 > Additionnal package maybe required for MacOS and Linux:
-> * __MacOS__ `mamba install -c conda-forge ocl_icd_wrapper_apple`
-> * __LINUX__ `mamba install -c conda-forge ocl-icd-system`
+> * __MacOS__ `conda install -c conda-forge ocl_icd_wrapper_apple`
+> * __LINUX__ `conda install -c conda-forge ocl-icd-system`
 
 ### Data to download
 
