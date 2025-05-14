@@ -14,6 +14,8 @@ Contents:
 - Short lecture to present CellTracksColab
 - Practicals with the CellTracksColab platform
 
+Link to the platform -> **[CellTracksColab](https://github.com/CellMigrationLab/CellTracksColab)**
+
 ## Preparing for the practicals
 
 Nothing to do! We will rely on Google Colab like BiaPy practicals did, and we will use the tracking results obtained with TrackMate during the previous session.  
