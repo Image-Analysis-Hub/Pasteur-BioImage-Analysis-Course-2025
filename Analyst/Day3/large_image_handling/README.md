@@ -10,7 +10,13 @@ This workshop introduces the OME-Zarr format for storing large multi-dimensional
 Create a conda environment with the packages required for this workshop. This can be done by running the following command in your terminal (after navigating to the `large_image_handling` directory):
 
 ```bash
-`conda env create -f environment.yml`
+conda env create -f environment.yml
+```
+
+Activate the environment with:
+
+```bash
+conda activate ome_zarr
 ```
 
 ### Jupyter Notebook
