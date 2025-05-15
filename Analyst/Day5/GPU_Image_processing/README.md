@@ -25,7 +25,7 @@ Once activated, we will need the following package:
 > if you have an NVIDIA card, you can also install cupy
 
 ```bash
-conda install pyclesperanto dask zarr jupyter pandas scikit-image -y
+conda install pyclesperanto dask zarr jupyter pandas scikit-image -c conda-forge -y
 ```
 
 And we can also install Napari for viewer
