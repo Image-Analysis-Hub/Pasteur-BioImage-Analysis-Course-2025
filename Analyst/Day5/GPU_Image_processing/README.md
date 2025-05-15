@@ -71,7 +71,7 @@ mamba create --name devbio python=3.11 devbio-napari pyqt -c conda-forge -y
 Update pyclesperanto to the latest version
 
 ```
-pip install pyclesperanto -U
+pip install pyclesperanto pyrsistent -U
 ```
 
 Start Napari-Assistant
