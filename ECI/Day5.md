@@ -4,6 +4,10 @@ For this tutorial we will be tracking the movies provided by Joanna in her sessi
 In particular we will be using the model you trained in the 2nd session yesterday in a tracking pipeline.
 There is nothing to download, if you have already the dataset from this session.
 
+> **[Backup label videos](https://drive.google.com/file/d/10bISN5TWuKXbevoqxyhTPQidddxx5f2F/view?usp=sharing)**
+
+> **[Backup original videos](https://drive.google.com/file/d/1Y5MWkEU7Ob5912H9xLZvYAZrJh5pVhd3/view?usp=sharing)**
+
 
 # Topic 2: Analyzing cell tracking results with CellTracksColab
 
