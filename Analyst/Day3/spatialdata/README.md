@@ -55,6 +55,11 @@ jupyterlab
     python download.py --data_dir data raw visium_multimodal
     ```
 
+### Introductory slides
+
+Overview [Slides](https://docs.google.com/presentation/d/1IarlFdp7dD_VJnIYYQHbsX90yi6VSokjmTOmmyU-gqg/edit?usp=sharing) by the scverse community and Luca Marconato, assembled from materials linked [here](https://github.com/PMBio/spatialdata-workshops).
+
+
 ## Acknowledgements
 
 This workshop is based on the work of the SpatialData team and has been almost entirely taken from https://github.com/PMBio/spatialdata-workshops. Thank you for making these materials available to the community!
