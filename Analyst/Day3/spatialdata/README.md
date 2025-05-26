@@ -9,6 +9,8 @@ The workshop will cover the following topics:
 - **Data visualization**: Techniques for visualizing spatial omics data.
 - **Multimodal data integration**: How to register and integrate different modalities of image data.
 
+Overview [Slides](https://docs.google.com/presentation/d/1IarlFdp7dD_VJnIYYQHbsX90yi6VSokjmTOmmyU-gqg/edit?usp=sharing) by the scverse community and Luca Marconato, assembled from materials linked [here](https://github.com/PMBio/spatialdata-workshops).
+
 
 ## Practical setup
 
@@ -55,9 +57,6 @@ jupyterlab
     python download.py --data_dir data raw visium_multimodal
     ```
 
-### Introductory slides
-
-Overview [Slides](https://docs.google.com/presentation/d/1IarlFdp7dD_VJnIYYQHbsX90yi6VSokjmTOmmyU-gqg/edit?usp=sharing) by the scverse community and Luca Marconato, assembled from materials linked [here](https://github.com/PMBio/spatialdata-workshops).
 
 
 ## Acknowledgements
