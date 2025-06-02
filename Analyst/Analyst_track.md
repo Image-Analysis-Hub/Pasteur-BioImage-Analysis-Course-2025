@@ -113,6 +113,10 @@ Installing the required software.
 
 > Stephan FISCHER
 
+### Extra Course: SAM and CellPose segmentation with QuPath
+
+> Thierry Pecot
+
 ---
 
 ## Friday, 16th of May

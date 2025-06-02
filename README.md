@@ -65,7 +65,7 @@ Monday May 12th - Friday May 16th 2025, Paris, France
   </tr>
 </table>
 
-## Speakers and Teachers
+## Speakers, Teachers, and Helpers
 
 
 - [Marvin ALBERT](https://research.pasteur.fr/en/member/marvin-albert/) - Image Analysis Hub, C2RI, Institut Pasteur
@@ -90,7 +90,7 @@ Monday May 12th - Friday May 16th 2025, Paris, France
 - [Jean-Yves TINEVEZ](https://research.pasteur.fr/en/member/jean-yves-tinevez/) - Image Analysis Hub, C2RI, Institut Pasteur
 - [Laura XÉNARD](https://research.pasteur.fr/en/member/laura-xenard/) - Image Analysis Hub, C2RI, Institut Pasteur
 - [Jacques BOURG](https://research.pasteur.fr/en/member/jacques-bourg/) - Photonic Bioimaging, C2RT, Institut Pasteur
-- Alice BLONDEL - Mines Paris
+- [Alice BLONDEL](https://curie.fr/personne/alice-blondel) - Institut Curie, Mines-Telecom Paris
 
 ## Acknowledgement
 
